@@ -9,7 +9,7 @@ Nmap
 ```
 ## Sobre
 - Pega a lista de seeder e leecher do torrent e executa um script generico do nmap e salva caso for vulneravel
-- Recomenda rodar em uma VPN
+- Recomendo rodar em uma VPN
 - Nao me responsabilizo por seja la quem for usar isso
 
 ## Instalacao
